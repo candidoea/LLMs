@@ -3,11 +3,7 @@
 Este projeto implementa um **Transformer decoder-only autoregressivo** para modelagem de linguagem.
 Dada uma sequência de tokens, o modelo aprende a estimar a distribuição condicional do próximo token:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="caminho/para/sua-equacao-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="caminho/para/sua-equacao-light.png">
-  <img alt="Descrição da equação M_{ij} com caso definido por j" src="caminho/para/sua-equacao-light.png">
-</picture>
+<img width="168" height="18" alt="image" src="https://github.com/user-attachments/assets/144c058b-89fe-4495-931d-f5d42070d4d3" />
 
 
 O treinamento maximiza a log-verossimilhança dos dados (equivalente à minimização da cross-entropy).
