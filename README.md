@@ -1,9 +1,3 @@
-Excelente iniciativa! Ao incluir ambos os modelos, o seu repositório torna-se um laboratório completo de **Arquiteturas de Atenção**, mostrando que você domina as duas principais variações do artigo original de 2017: o **Decoder-only** (GPT) e o **Encoder-Decoder** (NMT).
-
-Aqui está a proposta de um `README.md` robusto e unificado para o seu repositório:
-
----
-
 # 🧠 Laboratório de LLMs: Arquiteturas Transformer
 
 Este repositório contém implementações académicas e visuais das duas principais variações da arquitetura **Transformer**. O objetivo é demonstrar a aplicação prática de mecanismos de atenção em tarefas de modelagem de linguagem e tradução automática.
@@ -77,9 +71,3 @@ O diferencial deste repositório é a capacidade de "abrir a caixa preta" do mod
 
 ---
 
-### Como utilizar este repositório:
-
-1. Comece pelo `GPT_Academico_Final_Corrigido` para entender a predição de texto.
-2. Avance para o `Transformer NMT` para compreender como dois Transformers comunicam entre si através da Cross-Attention.
-
----
